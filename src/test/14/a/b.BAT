@@ -1,0 +1,3 @@
+PATH = a
+
+NAME = b
